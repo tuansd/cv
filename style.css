@@ -72,6 +72,7 @@ html {
 }
 
 .person-name {
+
   font-size: 2rem;
   color: #fff;
   background-color: lightskyblue;
@@ -80,14 +81,27 @@ html {
   letter-spacing: 0.3rem;
   transform: skew(-10deg);
 }
+.summary {
+
+  font-size: 1.5rem;
+  color:lightskyblue;
+  background-color: #fff ;
+  /* margin: 1rem 1rem; */
+  /* padding: 1rem 2rem; */
+  padding-bottom: 2rem;
+  padding-top: -1rem;
+  letter-spacing: 0.3rem;
+}
+
 
 .section-1-btn {
   font-size: 1.7rem;
   font-weight: 700;
-  color: #333;
-  background-color: #fff;
-  border: 0.3rem solid #333;
-  padding: 0.5rem 1rem;
+  border-radius: 10px;
+  color: darkolivegreen;
+  /* background-color: darkolivegreen; */
+  border: 0.2rem solid darkolivegreen;
+  padding: 1rem 1rem;
   text-transform: uppercase;
   letter-spacing: 0.3rem;
 }
