@@ -81,6 +81,16 @@ html {
   letter-spacing: 0.3rem;
   transform: skew(-10deg);
 }
+.hire-me {
+
+  font-size: 1.5rem;
+  color: #fff;
+  background-color: lightskyblue;
+  margin: 1rem 0;
+  padding: 0.5rem 3rem;
+  letter-spacing: 0.3rem;
+  transition: box-shadow 0.5s;
+}
 .summary {
 
   font-size: 1.5rem;
@@ -303,6 +313,7 @@ html {
 
 .project-img {
   width: 40rem;
+  height: 20rem;
   transition: opacity 0.3s;
 }
 
